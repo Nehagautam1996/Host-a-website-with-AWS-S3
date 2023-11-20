@@ -4,8 +4,7 @@ Open the AWS management console and then search for S3 service.
 
 create an S3 bucket. (I named it marvel-103 in N. Virginia region).
 
-![](./media/image1.png){width="5.947916666666667in"
-height="2.8854166666666665in"}
+![](./media/image1.png)
 
 Open the public access settings for this bucket.
 
@@ -13,7 +12,7 @@ Uncheck the setting to block all the public access to the website, and
 also enable the checkbox for the acknowledgement to turn of this block
 setting.
 
-![](./media/image2.png){width="5.8125in" height="2.7916666666666665in"}
+![](./media/image2.png)
 
 Click on create bucket.
 
