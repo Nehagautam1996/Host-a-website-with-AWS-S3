@@ -47,8 +47,7 @@ Copy the object URL and paste it in a tab of the browser.
 
 The result is the website.
 
-![](./media/image11.png){width="5.385416666666667in"
-height="2.4895833333333335in"}
+![](./media/image11.png)
 
 Reference: The website used was downloaded from the link
 
